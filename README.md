@@ -13,4 +13,6 @@ O controle de tarefas desse projeto será realizado  no GitHub
 - :beetle: Correção de bug
 - :checkered_flag: Release
 
-## 
+## Menu Lateral
+
+Implementação do menu lateral
